@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938069083891",
+    "project_id": "semana6autenticacion1150",
+    "storage_bucket": "semana6autenticacion1150.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938069083891:android:37324191794b1c0aa95986",
+        "android_client_info": {
+          "package_name": "com.semana6.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoWJtwzUiLLd-l00MEXqK_yX6LWHqzX-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
